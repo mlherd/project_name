@@ -2,7 +2,7 @@
 # sample_project
 project_template_github
 
-# Project Name: sample_project
+**Project Name: sample_project**
 .
 .
 Project Description
