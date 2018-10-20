@@ -6,7 +6,7 @@
 # sample_project
 project_template_github
 
-#Project Name: sample_project
+# Project Name: sample_project
 .
 .
 Project Description
@@ -16,7 +16,7 @@ Project Description
 # Project Status:
 .
 .
-Dcribe the Current Status of the Project
+Describe the Current Status of the Project
 .
 .
 
