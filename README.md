@@ -1,8 +1,11 @@
 # Fall 2018 - ECE 478/578 - Robotics 1
+**Intelligent Robotics Lab**
+**Portland State University**
+
 # sample_project
 project_template_github
 
-**Project Name: sample_project**
+#Project Name: sample_project
 .
 .
 Project Description
