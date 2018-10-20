@@ -3,9 +3,6 @@
 
 **Portland State University**
 
-# sample_project
-project_template_github
-
 # Project Name: sample_project
 .
 .
