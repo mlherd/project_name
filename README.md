@@ -1,8 +1,8 @@
 # Fall 2018 - ECE 478/578 - Robotics 1
-# project_name
+# sample_project
 project_template_github
 
-# Project Name:
+# Project Name: sample_project
 .
 .
 Project Description
@@ -45,8 +45,8 @@ Notes
 .
 
 # Project Team :
-- Team Member 1
-- Team Member 2
-- Team Member 3
+- Team Member 1 (OpenCv)
+- Team Member 2 (Servo Contol)
+- Team Member 3 (ROS)
 
 
