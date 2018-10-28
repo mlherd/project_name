@@ -1,1 +1,5 @@
-.
+Use meaningful names for videos.
+
+Examples:
+Bad name : video1.mpg
+Good name: robot_motion_move_forward_backward_test1.mpg
