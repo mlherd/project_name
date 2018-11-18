@@ -1,5 +1,6 @@
 # Fall 2018 - ECE 478/578 - Robotics 1
 **Intelligent Robotics Lab**
+**Intelligent Robotics 1 Course Project**
 
 **Portland State University**
 
